@@ -1,11 +1,13 @@
 # Predictive Text Web Application (Python Flask, R Shiny)
+![ptext](img/predictive-text-app.jpg)
+
 This is a web-based application (implemented in both R and Python programming languages) suggesting words the end user may wish to insert in a text field. The current report describes the technical aspect of the product.
 
 The following two figures show the home pages of the [R Shiny App](https://asafilian.shinyapps.io/as_txtpredict) and the [Python Flask App](http://saf-predictivetext.us-east-2.elasticbeanstalk.com/)
 
 ![rshiny](img/ptextshiny.jpg)
 
-![rshiny](img/flask-text.JPG)
+![flask](img/flask-text.JPG)
 
 I analyzed a large corpus of text documents (4,269,678 lines, and over 102,080,244 words) to discover the relationship between words. The observations are gathered from News, Blogs, and Twitter.
 
