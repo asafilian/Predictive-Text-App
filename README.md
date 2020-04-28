@@ -3,6 +3,6 @@ This is a web-based application (implemented in both R and Python programming la
 
 The following two figures show the home pages of the [R Shiny App](https://asafilian.shinyapps.io/as_txtpredict) and the [Python Flask App](http://saf-predictivetext.us-east-2.elasticbeanstalk.com/)
 
-![rshiny](img/ptextshiny.JPG)
+![rshiny](img/ptextshiny.jpg)
 
 ![rshiny](img/flask-text.JPG)
